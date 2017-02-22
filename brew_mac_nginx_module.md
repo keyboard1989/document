@@ -1,4 +1,4 @@
-# document### 搭建目标
+# document
 为了学习章亦春的nginx学习资料:[agentzh-nginx-tutorials](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html#00-Foreword01)。因此特意搭建了本地的nginx学习环境。 搭建过程还是遇到了一些坑的。所以还是纪录一下，希望能帮助到其他的学习者。
 ### nginx安装
 最常用的安装方法:
