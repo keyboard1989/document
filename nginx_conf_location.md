@@ -26,3 +26,4 @@ location ~* .(gif|jpg|jpeg)$ {
   [ configuration D ] 
 }
 ```
+更全的说明：http://www.jb51.net/article/50899.htm
